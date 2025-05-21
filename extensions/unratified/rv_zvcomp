@@ -1,0 +1,5 @@
+vbcompress.vv 31..26=0x11 vm vs2 vs1 14..12=0x2 vd 6..0=0x5b
+vbcompress.vx 31..26=0x11 vm vs2 rs1 14..12=0x6 vd 6..0=0x5b
+
+vbexpand.vv   31..26=0x13 vm vs2 vs1 14..12=0x2 vd 6..0=0x5b
+vbexpand.vx   31..26=0x13 vm vs2 rs1 14..12=0x6 vd 6..0=0x5b
